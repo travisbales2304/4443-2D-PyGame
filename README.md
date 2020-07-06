@@ -8,9 +8,8 @@ Intro to 2D game concepts using PyGame
 ### General Course Info
 - __Days:__ M-Th 12:30 p.m. - 2:30 p.m.
 - __Location:__ Somewhere in the Ether
-- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf)Mon Jul 06<sup>th</sup> - Thu Aug 06<sup>th</sup>
-- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf)
-  - None
+- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf) Mon Jul 06<sup>th</sup> - Thu Aug 06<sup>th</sup>
+- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf) None
 - [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf) Thu Jul 23<sup>rd</sup>
 - [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal1920.pdf) Thu Aug 06<sup>th</sup>
 - [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/spring20finals.pdf) Thu Aug 06<sup>th</sup>, 12:30 a.m. - 2:30 p.m.
