@@ -41,14 +41,14 @@ Intro to 2D game concepts using PyGame
 ## Grading:
 
 <!-- ### Scenario 1 -->
-| Categories                   |       | Grade |          |
-| :--------------------------- | :---: | :---: | :------: |
-| Projects <sup>**1**</sup>    |  60%  |   A   |  89-100  |
-| Assignments <sup>**2**</sup> |  10%  |   B   |  79-88   |
-| Github <sup>**3**</sup>      |  10%  |   C   |  69-78   |
-| Grading <sup>**4**</sup>     |  10%  |   D   |  59-68   |
-| Final <sup>**5**</sup>       |  10%  |   D   | below 59 |
-|                              |       |   F   |          |
+| Categories                   |        | Grade |          |
+| :--------------------------- | :----: | :---: | :------: |
+| Projects <sup>**1**</sup>    | <= 60% | A =>  |  89-100  |
+| Assignments <sup>**2**</sup> | <= 10% | B =>  |  79-88   |
+| Github <sup>**3**</sup>      | <= 10% | C =>  |  69-78   |
+| Grading <sup>**4**</sup>     | <= 10% | D =>  |  59-68   |
+| Final <sup>**5**</sup>       | <= 10% | F =>  | below 59 |
+|                              |        |       |          |
 
 <!-- ### Scenario 2
 | Categories                   |       | Grade |          |
@@ -58,7 +58,7 @@ Intro to 2D game concepts using PyGame
 | Github <sup>**3**</sup>      |  10%  |   C   |  69-78   |
 | Grading <sup>**4**</sup>     |  10%  |   D   |  59-68   |
 | Final <sup>**5**</sup>       |  10%  |   D   | below 59 |
-|                              |       |   F   |          | -->
+|                              |       |   F   |          | --> |
 
 
 **1**. Projects must run without error.  If they do not run, they will not be graded. Correctness is a different matter. However, the program must be close to the solution required and cannot be an over simplified version simply for the purpose of making it run. In the context of "games" your project should meet a minimum set of requirements as dictated by the written assignment.
