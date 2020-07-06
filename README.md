@@ -51,7 +51,7 @@ Intro to 2D game concepts using PyGame
 
 
 
-**1**. Projects must run without error.  If they do not run, they will not be graded. Correctness is a different matter. However, the program must be close to the solution required and cannot be an over simplified version simply for the purpose of making it run. In the context of "games" your project should meet a minimum set of requirements as dictated by the written assignment.
+>**1**. Projects must run without error.  If they do not run, they will not be graded. Correctness is a different matter. However, the program must be close to the solution required and cannot be an over simplified version simply for the purpose of making it run. In the context of "games" your project should meet a minimum set of requirements as dictated by the written assignment.
 >
 >**2**. If it turns out that smaller assignments seems to be the best course of action with this class, we will go with scenario 2. It really depends on how the class is doing in general and if a single big project per week will really work. Summer is rough people, so we have to be able to adapt.
 
