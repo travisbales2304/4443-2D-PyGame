@@ -40,7 +40,7 @@ Intro to 2D game concepts using PyGame
 
 ## Grading:
 
-### Scenario 1
+<!-- ### Scenario 1 -->
 | Categories                   |       | Grade |          |
 | :--------------------------- | :---: | :---: | :------: |
 | Projects <sup>**1**</sup>    |  60%  |   A   |  89-100  |
@@ -50,7 +50,7 @@ Intro to 2D game concepts using PyGame
 | Final <sup>**5**</sup>       |  10%  |   D   | below 59 |
 |                              |       |   F   |          |
 
-### Scenario 2
+<!-- ### Scenario 2
 | Categories                   |       | Grade |          |
 | :--------------------------- | :---: | :---: | :------: |
 | Projects <sup>**1**</sup>    |  45%  |   A   |  89-100  |
@@ -58,7 +58,7 @@ Intro to 2D game concepts using PyGame
 | Github <sup>**3**</sup>      |  10%  |   C   |  69-78   |
 | Grading <sup>**4**</sup>     |  10%  |   D   |  59-68   |
 | Final <sup>**5**</sup>       |  10%  |   D   | below 59 |
-|                              |       |   F   |          |
+|                              |       |   F   |          | -->
 
 
 **1**. Projects must run without error.  If they do not run, they will not be graded. Correctness is a different matter. However, the program must be close to the solution required and cannot be an over simplified version simply for the purpose of making it run. In the context of "games" your project should meet a minimum set of requirements as dictated by the written assignment.
@@ -67,7 +67,7 @@ Intro to 2D game concepts using PyGame
 
 >**3**. This is the state of your github repo at the end of the semester. So follow the instructions as stated in the first assignment on how your repo should be set up.
 
->**4**. You will be grading other students projects. This will give you the opportunity to enjoy other peoples work and creativity. No really. Seriously.
+>**4**. You will be grading other students projects. This will give you the opportunity to enjoy other peoples work and creativity. No really. Seriously. Grading is fun and super easy.
 >
 >**5**. Plane ticket prices, events like weddings, or trips out of the country are not valid excuses for missing the final exam at its scheduled time. I will not make accommodations for anything other than an issue vetted by the dean of students.
 
