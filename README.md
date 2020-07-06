@@ -60,7 +60,7 @@ Intro to 2D game concepts using PyGame
 >
 >**5**. Plane ticket prices, events like weddings, or trips out of the country are not valid excuses for missing the final exam at its scheduled time. I will not make accommodations for anything other than an issue vetted by the dean of students.
 
-## Important!:
+## Important!
 
 - Attending class for online lectures is very different. You will be compelled to miss, or not pay attention and especially not participate. This will make the class kind of suck :( You guys are every as much responsible for the success of this class as I am. I will do my best, but if my online lectures are sparsely attended, and I get little to no feedback, it will be very tough for me to motivate myself to keep allocating set times for unattended lectures. I will however always be available for help! But, lets not test my motivation ... just attend and participate. **Lets make this class awesome!**
 
