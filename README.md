@@ -43,11 +43,11 @@ Intro to 2D game concepts using PyGame
 <!-- ### Scenario 1 -->
 | Categories                   |        | Grade |          |
 | :--------------------------- | :----: | :---: | :------: |
-| Projects <sup>**1**</sup>    | ⇦ 60% | A =>  |  89-100  |
-| Assignments <sup>**2**</sup> | ⇦ 10% | B =>  |  79-88   |
-| Github <sup>**3**</sup>      | ⇦ 10% | C =>  |  69-78   |
-| Grading <sup>**4**</sup>     | ⇦ 10% | D =>  |  59-68   |
-| Final <sup>**5**</sup>       | ⇦ 10% | F =>  | below 59 |
+| Projects <sup>**1**</sup>    | ⇦ 60% | A ⇨  |  89-100  |
+| Assignments <sup>**2**</sup> | ⇦ 10% | B ⇨  |  79-88   |
+| Github <sup>**3**</sup>      | ⇦ 10% | C ⇨  |  69-78   |
+| Grading <sup>**4**</sup>     | ⇦ 10% | D ⇨  |  59-68   |
+| Final <sup>**5**</sup>       | ⇦ 10% | F ⇨  | below 59 |
 |                              |        |       |          |
 
 <!-- ### Scenario 2
