@@ -1,4 +1,4 @@
-## Assignment 3 - Dev Setup
+## Assignment 3 - Dev Setup and First Program
 #### Due: 07-08-2020 (Wednesday @ 12:30 p.m.)
 
 ## Getting Dev Environment Setup
