@@ -1,4 +1,4 @@
-## Lecture 2 - Intro To Python
+## Python Intro - Lots of mini Python lessons
 #### Due: None
 
 
