@@ -55,6 +55,8 @@ This is pretty basic stuff :)
 - Traverse the dictionary printing the specifics of your player data onto the tkinter window in an organized fashion similar to the example below.
 - Make sure you change json information to someone else. Humor is appreciated.
 - You can change any and all fields as long as you have a similar amount of data AND you keep at least one of the keys pointing to a list of items.
+- Add code to "Original Window Code" so that you traverse the dictionary with a loop construct examining each and every data element in the dictionary.
+- Pulling individual items out with hard coded keys is not ok.
 
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/player_tkinter_json.png" width="400">
 
@@ -94,6 +96,13 @@ if __name__ == "__main__":
 - Add a file to your folder called `main.py` with the above code.
 - Include your `player-info.json` file in this folder (or whatever you named it).
 - Include a shot of the output window your program creates. Please don't screen shot your whole desktop with our output as a tiny little window on it.
-- Add a `README.md` file in your `A04` folder with instructions on how to run your program as dictated in [A02](../A02/README.md).
-- Instructions ALWAYS address how to run your code from a command line, and NEVER: "hit the play button on your editor".
+- Add a `README.md` file to your `A04` folder with instructions on how to run your program guided by [R03](../../Resources/R03/README.md)
 
+
+## Pseudo Rubric
+
+- Does the program run?
+- Does it print out all of the information on the GUI window?
+- Is the information neatly presented in an organized way?
+- Did the program traverse the dictionary using a for loop printing each data field from within the loop?
+- Did the program have issues traversing the dictionary when processing the list element?
