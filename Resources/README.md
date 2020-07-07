@@ -2,7 +2,7 @@
 | Folder | Resource | Description|
  | ------------|------------|------------|
  | [R01](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) | [ Python Cheat Sheet ](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) | [ Nice Python References](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) | [R01](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) | [|      | Cheat Sheet                         | Assignment Description                                    |](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) | [N/A](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R01) |
- | [Z01](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/Z01) | [ Random Files ](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/Z01) | [ Who knows](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/Z01) | [N/A](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/Z01) |
+ | [R02](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) | [ Lecture 2 ](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) | [ Intro To Python](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) | [R02](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) | [|      | File                           | Topic                       |](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) | [N/A](https://github.com/rugbyprof/4443-2D-PyGame/tree/master/Resources/R02) |
 
     
 ## File Legend
@@ -15,4 +15,4 @@
 |xx-**T**xx | This is a ***Test***. Usually when on github, it will start out as a study guide, then get accompanied with a solution after the exam. |
 
     
-<sup>Last Updated: 2020-07-06 (Mon @ 02:52)</sup>
+<sup>Last Updated: 2020-07-07 (Tue @ 13:08)</sup>
