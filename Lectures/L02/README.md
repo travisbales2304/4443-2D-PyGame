@@ -1,104 +1,18 @@
 ## Lecture 2 - Intro To Python
 #### Due: None
 
-# Not Done!
 
-## Python Basics
-
-### Hello World
-  - print statement
-### WhiteSpace Matters
-  - Indentation will mess your would up if you don't follow consistent spacing.
-  - Choose spaces or tabs, but spaces will be friendlier
-### Variables
-- No declarations using data types like C++
-- Any assignment of a value to a variable will set the type of the variable.
-- Assignment
-  - `=`
-- Arithmetic Operators
-  - `+ - / // * %`
-- Dynamically typed
-  - `type(varname)`
-  - `type(2.0)`
-- Convenience Operators
-  - `+=`
-  - `-=`
-  - `/=`
-  - `*=`
-  - `%=`
-
-### Math Module
-
-- ceil
-- floor
-
-### Strings
-
-- double quotes
-- single quotes
-- vice versa
-
-### String Functions
-
-- formatted strings
-- .lower()
-- .upper()
-- .capitalize()
-- .title()
-- .islower()
-- .isupper()
-- .isalpha()
-- .index("findme")
-- .find("findme")
-- input("Enter a value)
-- .strip()
-
-### String Slicing
-
-- [start:finish:step]
-- `domain = email[email.index("@") + 1 : email.index("x"):]`
-- username,domain = email.split("@")
-
-### Boolean and Comparison Operators
-
-- True
-- False
-- "True" is a string
-- `> < <= >=`
-- `==`
-- `!=`
-- not
-
-### If statement and code blocks
-- parens or no parens
-- : for code block
-- spaces vs tabs
-- else
-- elif
-
-
-### Boolean and Logical Operators
-
-- and
-- or
-
-
-### Loops
-
-- for
-- while
-
-### Data Structures
-
-#### List
-
-#### Tuple
-
-#### Dictionary
-
-#### Sets
-
-### Links
-
-- 2D Multiplayer
-  - https://github.com/cjrh/pyconau2018-arcade2Dmultiplayer
+|   #   | File                           | Topic                       |
+| :---: | :----------------------------- | :-------------------------- |
+|   1   | [PyIntro_01.py](PyIntro_01.py) | Hello World                 |
+|   2   | [PyIntro_02.py](PyIntro_02.py) | Variables and such          |
+|   3   | [PyIntro_03.py](PyIntro_03.py) | Arithmetic Functions        |
+|   4   | [PyIntro_04.py](PyIntro_04.py) | Command Line Params         |
+|   5   | [PyIntro_05.py](PyIntro_05.py) | Strings                     |
+|   6   | [PyIntro_06.py](PyIntro_06.py) | If statements / code blocks |
+|   7   | [PyIntro_07.py](PyIntro_07.py) | Boolean and logic operators |
+|   8   | [PyIntro_08.py](PyIntro_08.py) | Loops                       |
+|   9   | [PyIntro_09.py](PyIntro_09.py) | Lists                       |
+|  10   | [PyIntro_10.py](PyIntro_10.py) | Lists slicing               |
+|  11   | [PyIntro_11.py](PyIntro_11.py) | Tuples                      |
+|  12   | [PyIntro_12.py](PyIntro_12.py) | Dictionaries                |
